@@ -15,7 +15,7 @@ conn = pymysql.connect(host='localhost',
                        port=3306,
                        user='root',
 
-                       password='',
+                       password='root',
                        db='alzheimersDetectionProject',
 
                        charset='utf8mb4',
